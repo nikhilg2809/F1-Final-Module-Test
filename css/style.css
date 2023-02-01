@@ -36,3 +36,10 @@ a{
     background-color: blue;
     border: none;
 }
+
+@media (max-width: 500px) {
+    .cardd{
+        display: block;
+        margin-left: 50px;
+    }
+}
