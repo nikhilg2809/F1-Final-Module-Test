@@ -47,3 +47,11 @@ nav{
 .eml{
     margin: 15px;
 }
+
+.lbutton{
+    background-color: blue;
+    border: none;
+    color:white;
+    margin:15px;
+    width:100px;
+}
