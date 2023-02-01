@@ -1,0 +1,38 @@
+nav{
+    background-color:rgba(255, 255, 255, 1e-06) !important;
+    border: none !important;
+}
+
+a{
+    color: #0D6EFD !important;
+}
+
+.btn{
+    border: solid #0D6EFD;
+    color: #0D6EFD;
+}
+
+
+.cardd{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 125px;
+    padding: 25px;
+
+}
+
+.panel-heading .accordion-toggle:after {
+    font-family: 'Glyphicons Halflings'; 
+    content: "\e114";    
+    float: right;        
+    color: grey;         
+}
+.panel-heading .accordion-toggle.collapsed:after {
+    content: "\e114";    
+}
+
+.lastbutton{
+    background-color: blue;
+    border: none;
+}
